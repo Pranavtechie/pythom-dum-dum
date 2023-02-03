@@ -1,0 +1,2 @@
+run-button: python3 $$file
+tabs: ['script.py']
